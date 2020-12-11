@@ -1,0 +1,1 @@
+let hi = document.querySelector("h1").innerText = "HEY hoHEY WORLD"
